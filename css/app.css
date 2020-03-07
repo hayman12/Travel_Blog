@@ -80,6 +80,16 @@ h1 {
     min-height: 25vh;
 }
 
+.CC19-header {
+    background-image: url('/img/Caribbean 2019 IMGs/Cruise_2019_Header.jpg');
+    background-position: 50% 75%;
+    background-size: cover;
+    background-color: white;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 2rem;
+    min-height: 25vh;
+}
 
 
 
