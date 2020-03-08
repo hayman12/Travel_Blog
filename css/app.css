@@ -68,9 +68,7 @@ h1 {
     padding: 3px;
     
 }
-
-.YCAN-header {
-    background-image: url('/img/Yellowstone IMGs/20191002_185053.jpg');
+.trips-header {
     background-position: 50% 75%;
     background-size: cover;
     background-color: white;
@@ -78,17 +76,16 @@ h1 {
     padding: 5px;
     margin-bottom: 2rem;
     min-height: 25vh;
+
+}
+#YCAN {
+    background-image: url('/img/Yellowstone IMGs/20191002_185053.jpg');
+    
 }
 
-.CC19-header {
+#CC19 {
     background-image: url('/img/Caribbean 2019 IMGs/Cruise_2019_Header.jpg');
-    background-position: 50% 75%;
-    background-size: cover;
-    background-color: white;
-    text-align: center;
-    padding: 5px;
-    margin-bottom: 2rem;
-    min-height: 25vh;
+  
 }
 
 
